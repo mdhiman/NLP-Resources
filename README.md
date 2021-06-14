@@ -14,7 +14,7 @@
   - Some Great Project Ideas with Dataset ==> (https://github.com/NirantK/awesome-project-ideas#text)
   - Long list of NLP Project ==> (https://github.com/costezki/awesome-nlprojects)
   - Awesome Kaggle NLP Project
-    - Toxic Comment Challenge, https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge. 
-    - Quora Question Pairs, https://www.kaggle.com/c/quora-question-pairs. 
-    - Spooky Author Identification, https://www.kaggle.com/c/spooky-author-identification. 
-    - Texts Normalization Challenge, https://www.kaggle.com/c/text-normalization-challenge-english-language. 
+    - Toxic Comment Challenge ==> https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge. 
+    - Quora Question Pairs ==> https://www.kaggle.com/c/quora-question-pairs. 
+    - Spooky Author Identification ==> https://www.kaggle.com/c/spooky-author-identification. 
+    - Texts Normalization Challenge ==> https://www.kaggle.com/c/text-normalization-challenge-english-language. 
