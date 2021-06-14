@@ -18,3 +18,4 @@
     - Quora Question Pairs ==> https://www.kaggle.com/c/quora-question-pairs. 
     - Spooky Author Identification ==> https://www.kaggle.com/c/spooky-author-identification. 
     - Texts Normalization Challenge ==> https://www.kaggle.com/c/text-normalization-challenge-english-language. 
+  - Super Duper NLP Repo, (For NoteBook Lover) ==> https://notebooks.quantumstat.com/#/
