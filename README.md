@@ -5,7 +5,7 @@
    
 
 2. Projects. 
-  - 20 NLP Projects, Good Primer to Beginner ==> (https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c). 
+  - 20 NLP Projects, Good Primer for Beginner ==> (https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c). 
   - Top NLP Application Areas ==> (https://analyticsindiamag.com/8-different-nlp-scenarios-one-can-take-up-for-a-project/)
   - Some inspiring NLP Projects on Github ==> (https://machinelearningknowledge.ai/natural-language-processing-github-projects-to-inspire-you/)
   - Famous opensource NLP tools  ==> (https://analyticsindiamag.com/best-nlp-open-source-projects-developers-ai/)
