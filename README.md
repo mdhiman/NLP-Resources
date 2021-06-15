@@ -22,3 +22,6 @@
 
 3. Machine Learning System Design.
   - Few Interesting Case Studies [https://huyenchip.com/machine-learning-systems-design/case-studies.html#case-studies-bYrWS80]
+
+  - Test your skill for ML System Design [ https://huyenchip.com/machine-learning-systems-design/exercises.html ].  
+  
