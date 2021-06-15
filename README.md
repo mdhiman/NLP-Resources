@@ -19,3 +19,6 @@
     - Spooky Author Identification ==> https://www.kaggle.com/c/spooky-author-identification. 
     - Texts Normalization Challenge ==> https://www.kaggle.com/c/text-normalization-challenge-english-language. 
   - Super Duper NLP Repo, (For NoteBook Lover) ==> https://notebooks.quantumstat.com/#/
+
+3. Machine Learning System Design.
+  - Few Interesting Case Studies [[https://huyenchip.com/machine-learning-systems-design/case-studies.html#case-studies-bYrWS80]]
