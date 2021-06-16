@@ -25,7 +25,7 @@
 
   - Test your skill for ML System Design [ https://huyenchip.com/machine-learning-systems-design/exercises.html ].  
 
-  - You are given user_id, timestamp, search_query and list of links clicked by user while doing google search. Design a machine learning system which predicts which links to show based on search query.
-  - Design machine learning system which shows spelling and grammer errors and also suggest suitable correction to them while user is typing on google doc.
-  - Given the output of above model, code the logic in any preferred language (I choose python) which can be used to provide real time correction and predictions to user while he is typing.
+  - You are given user_id, timestamp, search_query and list of links clicked by user while doing google search. Design a machine learning system which predicts which links to show based on search query.[Google ML Engineer Interview]
+  - Design machine learning system which shows spelling and grammer errors and also suggest suitable correction to them while user is typing on google doc. [ Google Interview]
+  - Given the output of above model, code the logic in any preferred language (I choose python) which can be used to provide real time correction and predictions to user while he is typing.[Google Interview]
   
